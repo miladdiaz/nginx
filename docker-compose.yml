@@ -7,4 +7,4 @@ services:
     networks: 
       - nginx
 networks: 
-  nginx
+  nginx:
