@@ -4,3 +4,5 @@ services:
     image: nginx:milad
     ports: 
       - "80:80"
+    networks: 
+      - nginx
