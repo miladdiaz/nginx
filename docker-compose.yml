@@ -8,5 +8,5 @@ services:
       - nginx
 networks: 
   nginx:
-
+    driver: bridge
   
